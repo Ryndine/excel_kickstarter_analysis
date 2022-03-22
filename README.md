@@ -1,7 +1,7 @@
 # Excel Kickstarter Analysis
 
 ## Objective: 
-Modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover market trends.
+Modify and analyze the data of 4,000 past Kickstarter projects to attempt to uncover market trends.
 
 ## Tools & databases used:
 - Advanced Excel
