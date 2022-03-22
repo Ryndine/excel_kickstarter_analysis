@@ -41,15 +41,15 @@ Second analysis is to see how well kickstarters performed based on their goals.
  - Looking further into this it seems that the data is being influenced by lack of substantiel data. There are fewer kickstarters the higher the goals, so it's hard to gauage the validity of the results as of yet.
 
 ## Theater Outcomes by Launch Date:
-![theater_outcomes](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/theater_outcomes_date.jpg)
+![theater_outcomes](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/theater_outcomes_date.jpg)  
 The next analysis I wanted to gain deeper insight into the theater category since it contains the most amount of kickstarter data.
 - It seems that after April kickstarters seem to perform much better. Maybe this could be attributed to tax returns? Either way performance seems to normalize again around August.
 
 ## Edinburgh Research:
-![vlookup](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/vlookup.jpg)
+![vlookup](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/vlookup.jpg)  
 Next I setup a vlookup so I can look at specific kickstarters within the data.
 
 # Statistical Analysis:
-![statistical_analysis](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/statistical_analysis.jpg)
+![statistical_analysis](https://github.com/Ryndine/excel_kickstarter_analysis/blob/main/Images/statistical_analysis.jpg)  
 Then for my last step I decided to breakdown the dataset into a stastical analysis to gain one final insight into performance.
 - Here it seems to confirm that kickstarters that are successful often have smaller goals than kickstarters that fail.
